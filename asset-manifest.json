@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.8802a7a7.css",
+    "main.js": "/my-portfolio/static/js/main.ff050a4c.js",
+    "static/js/787.a521b789.chunk.js": "/my-portfolio/static/js/787.a521b789.chunk.js",
+    "static/media/main-richy.jpg": "/my-portfolio/static/media/main-richy.b1bbf00a66776b3f415e.jpg",
+    "static/media/yoga-sub.png": "/my-portfolio/static/media/yoga-sub.dd27cdee8d89065e9fcc.png",
+    "static/media/website.png": "/my-portfolio/static/media/website.256a510bc9da6b9937e6.png",
+    "static/media/gym-sub.png": "/my-portfolio/static/media/gym-sub.495f5866a384e14faf1f.png",
+    "static/media/website-sub.png": "/my-portfolio/static/media/website-sub.b37b7573cb6671cd19b2.png",
+    "static/media/yoga.png": "/my-portfolio/static/media/yoga.508230894047748ac6cf.png",
+    "static/media/music-sub.png": "/my-portfolio/static/media/music-sub.bd6e885a034fd99c0892.png",
+    "static/media/gym.png": "/my-portfolio/static/media/gym.8cfb6a409873ae436bc1.png",
+    "static/media/music.png": "/my-portfolio/static/media/music.ebd447c951fe95cac5bf.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.8802a7a7.css.map": "/my-portfolio/static/css/main.8802a7a7.css.map",
+    "main.ff050a4c.js.map": "/my-portfolio/static/js/main.ff050a4c.js.map",
+    "787.a521b789.chunk.js.map": "/my-portfolio/static/js/787.a521b789.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8802a7a7.css",
+    "static/js/main.ff050a4c.js"
+  ]
+}
