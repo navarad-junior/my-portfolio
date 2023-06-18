@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.8802a7a7.css",
-    "main.js": "/my-portfolio/static/js/main.ff050a4c.js",
+    "main.css": "/my-portfolio/static/css/main.1071e8ec.css",
+    "main.js": "/my-portfolio/static/js/main.850891c4.js",
     "static/js/787.a521b789.chunk.js": "/my-portfolio/static/js/787.a521b789.chunk.js",
     "static/media/main-richy.jpg": "/my-portfolio/static/media/main-richy.b1bbf00a66776b3f415e.jpg",
     "static/media/yoga-sub.png": "/my-portfolio/static/media/yoga-sub.dd27cdee8d89065e9fcc.png",
@@ -11,14 +11,15 @@
     "static/media/yoga.png": "/my-portfolio/static/media/yoga.508230894047748ac6cf.png",
     "static/media/music-sub.png": "/my-portfolio/static/media/music-sub.bd6e885a034fd99c0892.png",
     "static/media/gym.png": "/my-portfolio/static/media/gym.8cfb6a409873ae436bc1.png",
+    "static/media/resume.pdf": "/my-portfolio/static/media/resume.99340be5fe8e228785af.pdf",
     "static/media/music.png": "/my-portfolio/static/media/music.ebd447c951fe95cac5bf.png",
     "index.html": "/my-portfolio/index.html",
-    "main.8802a7a7.css.map": "/my-portfolio/static/css/main.8802a7a7.css.map",
-    "main.ff050a4c.js.map": "/my-portfolio/static/js/main.ff050a4c.js.map",
+    "main.1071e8ec.css.map": "/my-portfolio/static/css/main.1071e8ec.css.map",
+    "main.850891c4.js.map": "/my-portfolio/static/js/main.850891c4.js.map",
     "787.a521b789.chunk.js.map": "/my-portfolio/static/js/787.a521b789.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8802a7a7.css",
-    "static/js/main.ff050a4c.js"
+    "static/css/main.1071e8ec.css",
+    "static/js/main.850891c4.js"
   ]
 }
