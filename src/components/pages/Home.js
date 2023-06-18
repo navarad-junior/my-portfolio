@@ -137,7 +137,7 @@ const Home = () => {
                 <div className='container-lg'>
                     <div className='row'>
                         <div className='col-md-6'>
-                            <h3 className='display-4 fw-bold'>Frontend Web Developer...</h3>
+                            <h3 className='display-4 fw-bold'>Frontend Web Developer</h3>
                             <p className='lead'>My name is Richard Martyns</p>
                             <p className='introduction'>I am a Web Developer with a working proficiency in <b>HTML</b>, <b>CSS</b>, <b>Bootstrap</b>, <b>JavaScript</b> and <b>react Js</b>. And i also have a background with typescript, i can also render services on Wordpress when needed. I plan to expand my skill set by learning a backend language, i am always ready to learn new things, i would love to work with a team that is truly passionate about what they create and that are consistent</p>
 
