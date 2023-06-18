@@ -9,6 +9,17 @@ h3.display-4 {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+a.btn-info {
+    border: 2px dashed white;
+    color: black;
+}
+
+a.btn-info:hover {
+    border: 2px dashed white;
+    color: black;
+    box-shadow: 5px 5px 10px;
+}
+
 p.blue-text {
     color: blue;
     cursor: pointer;

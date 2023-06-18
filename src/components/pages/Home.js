@@ -1,5 +1,4 @@
 import React, { useState, useRef } from 'react'
-import { Link } from 'react-router-dom'
 import emailjs from '@emailjs/browser'
 import Richard from '../images/main-richy.jpg'
 import '../styles/HomePage.css'
@@ -12,6 +11,7 @@ import MusicSub from '../images/music-sub.png'
 import YogaSub from '../images/yoga-sub.png'
 import WebsiteSub from '../images/website-sub.png'
 import GymSub from '../images/gym-sub.png'
+import MyPdf from '../images/resume.pdf'
 
 const Home = () => {
     const [state, setState] = useState('')
@@ -144,6 +144,7 @@ const Home = () => {
                             <p onClick={dropText} className='fw-bold blue-text'>
                                 {state ? <span style={{ color: 'white', fontWeight: 'normal', cursor: 'auto' }}>My goal is to continously grow as a developer while staying current with the latest technologies. I really love what i do and i am looking foward to working with you.</span> : <span>See more ...</span>}
                             </p>
+                            <a href={MyPdf} className='btn btn-info btn-lg mt-1 fw-bold'>Resume</a>
                         </div>
                         <div className='col-md-6'>
                             <img src={Richard} alt='Web Developer' className='img-fluid rounded-circle img-thumbnail' />
